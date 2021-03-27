@@ -19,6 +19,8 @@ Follow the instrunction (https://docs.docker.com/).
 ### 2. Build image
 $ git clone https://github.com/MGH-LMIC/SIIM_Hardware.git
 
+$ cd SIIM_Hardware
+
 $ sudo docker build . -t hardware_detection:1.0 -f docker_config/Dockerfile
 
 
