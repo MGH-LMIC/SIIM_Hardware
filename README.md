@@ -1,5 +1,5 @@
 # SIIM_Hardware
-Binary classification (hardware / No hardware) of fluoroscopy &amp; X-ray images
+Binary classification (hardware / No hardware) of fluoroscopy or X-ray images
 
 ## Prerequisites
 
