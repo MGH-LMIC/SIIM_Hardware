@@ -1,5 +1,5 @@
 # SIIM_Hardware
-Detect hardware from fluoroscopy &amp; X-ray images
+Binary classification (hardware / No hardware) of fluoroscopy &amp; X-ray images
 
 ## Prerequisites
 
